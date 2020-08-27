@@ -24,11 +24,11 @@ Fujian(Quanzhou)-HIT Research Institute of Engineering and Technology
 
 ## Award
 
-* First Prize in China Postgraduate Robot Innovation and Design Competition, 2019
-* First Class Postgraduate Scholarship, 2019
-* 100 Best Undergraduate Dissertation, 2019
-* GuangHua Scholarship, 2017
-* SMC Scholarship, HIT, 2016
+First Prize in China Postgraduate Robot Innovation and Design Competition, 2019 <br>
+First Class Postgraduate Scholarship, 2019 <br>
+100 Best Undergraduate Dissertation, 2019 <br>
+GuangHua Scholarship, 2017 <br>
+SMC Scholarship, HIT, 2016 <br>
 
 ## Project
 
@@ -47,4 +47,4 @@ Design of Reinforcement Learning Decision System <br>
 
 ## Publication
 
-* Zhao L., Liu Y., Jiang X., Wang K., Zhou Z. (2019) Indoor Environment RGB-DT Mapping for Security Mobile Robots. In: Yu H., Liu J., Liu L., Ju Z., Liu Y., Zhou D. (eds) Intelligent Robotics and Applications. ICIRA 2019. Lecture Notes in Computer Science, vol 11743. Springer, Cham.
+Zhao L., Liu Y., Jiang X., Wang K., Zhou Z. (2019) Indoor Environment RGB-DT Mapping for Security Mobile Robots. In: Yu H., Liu J., Liu L., Ju Z., Liu Y., Zhou D. (eds) Intelligent Robotics and Applications. ICIRA 2019. Lecture Notes in Computer Science, vol 11743. Springer, Cham. <br>
