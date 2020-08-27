@@ -1,5 +1,3 @@
-## Xinkai Jiang
-
 ## Personal Information
 
 Gender: Male <br>
