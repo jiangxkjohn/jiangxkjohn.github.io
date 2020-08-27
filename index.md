@@ -1,37 +1,50 @@
 ## Xinkai Jiang
 
-You can use the [editor on GitHub](https://github.com/jiangxkjohn/jiangxkjohn.githun.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gender: Male <br>
+Nationality: China
 
-### Markdown
+## Educational Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2019.9 - <br>
+Master degree in Mechanical Engineering <br>
+State Key Laboratory of Robotics and System <br>
+Harbin Institute of Technology (HIT)
 
-```markdown
-Syntax highlighted code block
+2015.9 - 2019.6 <br>
+Bachelor degree in Mechanical Engineering <br>
+Harbin Institute of Technology (HIT)
 
-# Header 1
-## Header 2
-### Header 3
+## Working Experience
 
-- Bulleted
-- List
+2020.6 - <br>
+Software engineer internship, Indoor-robot navigation system <br>
+Fujian(Quanzhou)-HIT Research Institute of Engineering and Technology
 
-1. Numbered
-2. List
+## Award
 
-**Bold** and _Italic_ and `Code` text
+* First Prize in China Postgraduate Robot Innovation and Design Competition, 2019
+* First Class Postgraduate Scholarship, 2019
+* 100 Best Undergraduate Dissertation, 2019
+* GuangHua Scholarship, 2017
+* SMC Scholarship, HIT, 2016
 
-[Link](url) and ![Image](src)
-```
+## Project
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Design of Intelligent Disinfection Robot <br>
+Project leader and navigation system design <br>
+2020.7 -
 
-### Jekyll Themes
+Intelligent Home Service Robot Technology and System <br>
+The design of navigation system <br>
+Funded by National Key R&D Program of China <br>
+2020.3 -
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiangxkjohn/jiangxkjohn.githun.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+RoboMaster 2020 AI Challenge <br>
+Design of Reinforcement Learning Decision System <br>
+2019.10 - 
 
-### Support or Contact
+## Publication
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Zhao L., Liu Y., Jiang X., Wang K., Zhou Z. (2019) Indoor Environment RGB-DT Mapping for Security Mobile Robots. In: Yu H., Liu J., Liu L., Ju Z., Liu Y., Zhou D. (eds) Intelligent Robotics and Applications. ICIRA 2019. Lecture Notes in Computer Science, vol 11743. Springer, Cham.
