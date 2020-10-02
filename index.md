@@ -12,6 +12,7 @@ Harbin, 150001, China
 
 ### Master student in Mechanical Engineering
 
+Score: 81.4/100  
 **State Key Laboratory of Robotics and System**  
 **Harbin Institute of Technology**  
 *Sept.2019 - Present*  
@@ -19,6 +20,7 @@ Harbin, 150001, China
 ### Bachelor degree in Mechanical Engineering
 
 Outstanding Graduate  
+Score: 87.7/100  
 **Harbin Institute of Technology**  
 *Sept.2015 - Jun.2019*  
 
