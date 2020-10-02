@@ -33,43 +33,53 @@ Jan.2019 - Present
 
 * Calibrated the infrared camera and kinect camera
 to solve the translation and rotation relative between them,
-then fuse the thermal graph and RGBD graph.
+then fuse the thermal graph and RGBD graph to acquire a
+matched graph showing the temperature and RGBD information.
 
-* Maped the indoor environment using laser,
-and then navigate the robot via move_base package
+* Used laser to map the indoor environment, then generated
+2D map for navigation. Utilized A* as global path planner and
+Time Elastic band as local path planner.
 
-* Used the QR scanner to scan the QR code set in the goal,
-then adjust the pose of robot more precisely
+* Installed a QR scanner in the bottom of the robot,
+so the scanner can scan the QR code set in the goal to get the pose deviation,
+then the robot adjusted the pose of robot more precisely
 
 ### **The Design of Intelligent Disinfection Robot**
 
-**National Third Prize in China Postgraduate Robot Innovation and Design Competition**  
+National Third Prize in China Postgraduate Robot Innovation and Design Competition  
 Jun.2020 - Sept.2020  
 
-* Worked as project leader and organized all the team research work  
-* Contracted the outline of the robot system which include six main part
-which include the mapping, navigation, disinfection mechanism,
-auto body temperature and mask detection and human interaction part
-* Designed the local planner via deep reinforcement learning
-to avoid the moving crowd, then integrate them to the move_base
+* Worked as project leader and organized all the team research and development work  
+* Constructed the outline of the robot system which include
+the mapping, navigation, disinfection mechanism,
+auto body temperature, mask detection and human interaction part.
+* Developed an Android app by java to control the robot,
+utilized the ROS Bridge to communicate with the Android device.
+* Developed the local planner via deep reinforcement learning
+to avoid the moving crowd, then integrated them to the move_base.
+* Deployed the face detection and mask detection model in the ROS.
 
 ### **RoboMaster 2020 AI Challenge**
 
-**Second Prize in Decision Group**  
-**First Prize in Open Source Awards**  
-**Second Prize in Navigation and Motion Planning Group**  
-**Third Prize in Navigation and Motion Planning Group**  
+Second Prize in Decision Group  
+First Prize in Open Source Awards  
+Second Prize in Navigation and Motion Planning Group  
+Third Prize in Navigation and Motion Planning Group  
 Oct.2019 - Sept.2020
 
-* Used Dueling DQN as the decision part of robot,
-input the observation of all the robots to the network,
-then the network would output the actions of two robots in one team.
-* Constructed a gym environment to simulate the behavior of
+* Utilized the Dueling DQN to establish decision network by tensorflow,
+this network uses the observation of all the robots included
+position, blood, ammo as input and
+outputs the actions of two robots in our side team.
+Then I trained network to let the agent learn to avoid the
+obstacles and attack the enemies. The results showed that
+the agent we trained had a win rate over 80% in the competition
+with the random strategy.
+* Developed a gym environment to simulate the behavior of
 four robots in two teams, the environment can simulate the
 moving of robot and detect whether the robot interact with
 the obstacles or other robots
-* Code the visual part to make
-the decision process visible
+* Code the visual part to make the decision process visible
 
 ### **All-weather 500 KV HV transmission line inspection robot**
 
@@ -94,7 +104,7 @@ Jan.2019 - May.2020
 * RenMing Scholarship (**15%**), 2018  
 * Merit Award in Zhou Peiyuan College Student Mechanics Competition (**10%**), 2017
 * GuangHua Scholarship (**10%**), 2017  
-* SMC Scholarship, HIT (**15%**), 2016   
+* SMC Scholarship, HIT (**15%**), 2016  
 
 ## Publication & Patent
 
@@ -102,6 +112,14 @@ Jan.2019 - May.2020
 
 * Zhao L., Liu Y., **Jiang X.**, Wang K., Zhou Z. (2019) Indoor Environment RGB-DT Mapping for Security Mobile Robots. In: Yu H., Liu J., Liu L., Ju Z., Liu Y., Zhou D. (eds) Intelligent Robotics and Applications. ICIRA 2019. Lecture Notes in Computer Science, vol 11743. Springer, Cham.
 * The invention relates to the structure of a negative pressure sprinkler head washer with an integrated negative pressure device (applying)
+
+## Skill
+
+---
+
+* Proficient: Python Tensorflow Pytorch C++ ROS Linux
+* Familiar: OpenCV CUDA OpenGL java C Docker
+* Some other documental skills like Git Markdown Latex
 
 ## Working Experience
 
@@ -122,17 +140,6 @@ Jun.2020 - Present
 
 * The Second ZJU SLAM Summer School - Jul.2019
 * The Third HIT "Intelligent Robot" International Summer School - Jul.2018
-
-## Skill
-
----
-
-* Very experienced in Python
-* Very experienced in Tensorflow and Pytorch
-* Very experienced in ROS
-* Familiar in C and C++
-* Familiar in OpenCV CUDA
-* Some other documental skills like Git Markdown and Latex
 
 ## Hobby
 
