@@ -13,7 +13,7 @@ Harbin, 150001, China
 ### Master student in Mechanical Engineering
 
 Score: 81.4/100  
-**Supervisor: Prof. Lijun Zhao**  
+**Supervisor: Professor Lijun Zhao**  
 **State Key Laboratory of Robotics and System**  
 **Harbin Institute of Technology**  
 *Sept.2019 - Present*  
