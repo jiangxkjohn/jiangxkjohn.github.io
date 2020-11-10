@@ -13,6 +13,7 @@ Harbin, 150001, China
 ### Master student in Mechanical Engineering
 
 Score: 81.4/100  
+**Supervisor: Prof. Lijun Zhao**  
 **State Key Laboratory of Robotics and System**  
 **Harbin Institute of Technology**  
 *Sept.2019 - Present*  
@@ -99,7 +100,7 @@ Cooperated with **China Southern Power Grid Company**
 * Used Adams to analyses the mechanical model of inspection robot,
 and verified if the mechanics structure is able to meet the requirement
 of climbing and the stability.
-* Collected very few number of four typical items 
+* Collected very few number of four typical items
 in the transmission line because of the difficulty to collect them
 in transmission line, then we augment the data to generate a large
 number of random labeled image by the matches between raw image and raw labels.
